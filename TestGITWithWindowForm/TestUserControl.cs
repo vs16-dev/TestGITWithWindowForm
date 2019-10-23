@@ -15,6 +15,8 @@ namespace TestGITWithWindowForm
         public TestUserControl()
         {
             InitializeComponent();
+            //Get Commit Test
+            
         }
     }
 }
